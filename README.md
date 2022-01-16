@@ -12,4 +12,4 @@ the first one is to be simple , always thinks somple with a fully understanding 
 now i'm gonna be honest it's not a piece of cake we know there a lot of complexity you deal with, as long as you deal simple as long as it's easier to think of.
 if you fail during programming it's not the end as long as you try to keep the rythm with the programming.
 thanks for trying to be one of us , stick to simplicity and consistency, before i forget don't try to get so perfect as long as it's good so well done , it sholdn't be exceptional.
-thank you. 
+thank you.
