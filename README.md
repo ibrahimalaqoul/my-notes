@@ -4,6 +4,8 @@ Hello there, it's ibrahim alaqoul talking to you
 about me i'm an ambicious guy looking to learn anf get more in programming field ( as an electrical engineer).
 i wish i can do my best during this journey.
 thank you.
+#Programming
+###Things to discuss about being a developer###
 
 As you always here "programming how hard is it" throw this away and listen to me every developer must have some of specification to get better
 the first one is to be simple , always thinks somple with a fully understanding for the tools and the language you use the more you be sipmle to think the most you make easier to the others.
